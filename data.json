@@ -1,17 +1,35 @@
 {
   "name": "onikoko abdullahi",
-  "avatar": "twitterimage",
+  "avatar": "https://pbs.twimg.com/profile_images/1566362925241180161/tzJd6Zwz_400x400.jpg",
   "links": [
     {
-      "title": "",
-      "url": "",
+      "title": "Linkedin",
+      "href": "https://www.linkedin.com/in/kokoforbes",
+      "image": "https://pbs.twimg.com/profile_images/1566362925241180161/tzJd6Zwz_400x400.jpg"
+    },
+    {
+      "title": "Linkedin",
+      "href": "https://www.linkedin.com/in/kokoforbes",
+      "image": "https://pbs.twimg.com/profile_images/1566362925241180161/tzJd6Zwz_400x400.jpg"
+    },
+    {
+      "title": "Linkedin",
+      "href": "https://www.linkedin.com/in/kokoforbes",
       "image": ""
     }
   ],
   "socials": [
     {
-      "title": "",
-      "url": ""
+      "title": "Linkedin",
+      "href": "https://www.linkedin.com/in/kokoforbes"
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/kokoforbes"
+    },
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/Koko_forbes"
     }
   ]
 }
